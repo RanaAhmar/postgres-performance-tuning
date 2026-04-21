@@ -8,6 +8,7 @@ Master PostgreSQL optimization. Practical scripts for indexing, vacuuming, and c
 - `slow_query_logger.sql`: Setup advanced slow query logging.
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -25,3 +26,4 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
